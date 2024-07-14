@@ -14,7 +14,7 @@ code {
 
 .container {
   width: 700px;
-  height: 170px;
+  height: 190px;
   padding: 10px;
 }
 
@@ -43,4 +43,8 @@ img {
   background: white;
   color: black;
   border: 1px solid black;
+}
+
+.page_btn:hover {
+  transform:scale(0.8)
 }

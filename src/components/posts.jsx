@@ -27,8 +27,6 @@ const Post = ()=>{
                    />
                     })
                 }
-
-                <br />
                 <Paginate pageNo={pageNo} setPageNo={setPageNo} />
             </div>       
         </>
