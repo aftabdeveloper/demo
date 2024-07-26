@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-
+import InfiniteScroll from "./components/infinite-scroll"
 const App = ()=>{
   return (
     <>
-      
+      <InfiniteScroll />
     </>
   )
 }
